@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Malak-Hawari
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently learning programming for data science
+- 📫 How to reach me: hawarimalak2003@gmail.com
+- 😄 Pronouns: She/Her
